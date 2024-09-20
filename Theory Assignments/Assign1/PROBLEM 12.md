@@ -37,4 +37,9 @@ end
 
 #PROBLEM 12 FLOWCHART
 
+![image](https://github.com/user-attachments/assets/cd83e1a2-e274-41db-be25-f9046ebe30fd)
+
 #PROBLEM 12 IPO
+
+![image](https://github.com/user-attachments/assets/d1325dce-47e3-4894-af3b-15c470bb27d7)
+
