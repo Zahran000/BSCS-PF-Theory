@@ -4,4 +4,4 @@
 
 #PROBLEM 9 IPO
 
-![image](https://github.com/user-attachments/assets/3c9f1fad-bad8-4841-9774-dfc67812eb57)
+![image](https://github.com/user-attachments/assets/15afe491-5c21-4ca5-b6a8-6fde98fda483)
