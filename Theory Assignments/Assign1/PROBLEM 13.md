@@ -2,23 +2,36 @@
 
 Start
 
-Input two jugs size, M and N (M should be > N)
+Input jug sizes M and N (where M > N)
 
-Find out GCD of M and N
+Compute GCD of M and N
 
-The amount of water that's a multiple of GCD can be measured
+Input the desired amount of water D
 
-If the required amount of water can't be expressed as a multiple of the GCD of M and N, then don't measure water
+If D is not a multiple of the GCD of M and N, then:
 
-Fill either jug completely
+   Print "The desired amount cannot be measured" 
+    
+   Go to End
+    
+Fill the larger jug (M) completely
 
-Pour water from one jug to another until one jug is full or the other is empty
+Pour water from jug M to jug N until one of the following happens:
 
-Empty any jug completely
+  a) Jug N is full
+    
+  b) Jug M is empty
+    
+If jug M has the desired amount of water (D), stop
 
-Repeat from step 6 until you get the desired amount
+If jug N has the desired amount of water (D), stop
+
+Empty the smaller jug (N)
+
+Repeat the process until the desired amount D is obtained
 
 End
+
 
 
 #PROBLEM 13 FLOWCHART
