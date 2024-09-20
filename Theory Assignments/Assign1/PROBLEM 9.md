@@ -1,4 +1,5 @@
 #PROBLEM 9 PSEUDOCODE
+
 start
 
 input bday
