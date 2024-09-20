@@ -20,7 +20,7 @@ input bmonth
 
 input tmonth
 
-if (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and bday < 1) or (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and bday > 31) then
+if (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and tday < 1) or (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and tday > 31) then
 
    print "wrong input try again"
    
@@ -32,7 +32,7 @@ else
    
 endif 
 
-if (tmonth== 2 and bday < 1) or (tmonth== 2 and bday > 28) then
+if (tmonth== 2 and tday < 1) or (tmonth== 2 and tday > 28) then
 
    print "wrong input try again"
    
