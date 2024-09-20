@@ -83,6 +83,12 @@ Print “Your are:” , Aday , “days” , Amonth “months” , Ayears “year
 
 #PROBLEM 9 FLOWCHART
 
+![image](https://github.com/user-attachments/assets/359dda09-540b-4b89-8a5a-83b1d06c4fb9)
+
+![image](https://github.com/user-attachments/assets/4d565875-53c8-4f6f-b130-1346a9c75a95)
+
+![image](https://github.com/user-attachments/assets/2d3095e4-5c4b-42f4-8048-44a31f3b3737)
+
 #PROBLEM 9 IPO
 
 ![image](https://github.com/user-attachments/assets/15afe491-5c21-4ca5-b6a8-6fde98fda483)
