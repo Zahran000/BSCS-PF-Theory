@@ -1,6 +1,6 @@
 #PROBLEM 9 PSEUDOCODE
 
-start
+#start
 
 input bday
 
@@ -78,7 +78,7 @@ Aday = tday – bday
 
 Print “Your are:” , Aday , “days” , Amonth “months” , Ayears “years old.” 
 
-end
+#end
 
 
 #PROBLEM 9 FLOWCHART
