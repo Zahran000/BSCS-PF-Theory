@@ -50,3 +50,5 @@ else:
 
 #PROBLEM 11 IPO
 
+![image](https://github.com/user-attachments/assets/dde12959-7f25-45b8-b28c-a7cf1a418daa)
+
