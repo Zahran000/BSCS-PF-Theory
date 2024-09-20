@@ -8,7 +8,7 @@ input byear
 
 input tday
 
-input tmonth
+input tyear
 
 input tyear
 
@@ -18,7 +18,7 @@ while flag = 0
 
 input bmonth
 
-input tyear
+input tmonth
 
 if (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and bday < 1) or (tmonth== 1,3,4,5,6,7,8,9,10,11,12 and bday > 31) then
 
