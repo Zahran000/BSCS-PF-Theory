@@ -32,4 +32,9 @@
 
 #PROBLEM 10 FLOWCHART
 
+![image](https://github.com/user-attachments/assets/baf18da9-beee-4223-b57d-79d3020fbad4)
+
 #PROBLEM 10 IPO
+
+![image](https://github.com/user-attachments/assets/057496c7-3791-41e0-9b62-9e08e39c2acd)
+
