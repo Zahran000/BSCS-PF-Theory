@@ -1,2 +1,3 @@
 # Name: Syed Zahran Ali 
 # Roll No: 24K-0672
+##I faced a few key challenges in completing Assignment 2. First, understanding and applying some of the new programming concepts introduced in this task required additional time and research, especially as they were more advanced than previous assignments. Additionally, debugging my code became time-consuming as I worked to identify and resolve syntax errors and logic flaws. Finally, managing time between this assignment and other coursework was challenging, which made it difficult to ensure thorough testing and refinement of my solutions. Additionally, in question 10, I found it challenging to implement the correct logic while keeping the code efficient and readable.
